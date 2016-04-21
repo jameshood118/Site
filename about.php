@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-8 box blogbox">
+                    <div class="col-lg-8 box well well-lg">
                         <BR>
                         <p>My name is James Hood, I am a Full Stack Web Developer. I work with a wide array of tools. My languages include: PHP/MySQL, Javascript, Jquery, HTML(5), CSS(3), Actionscript 2.0/3.0, XML, ASP.net (C# and VB) and a smattering of C++, XSLT, Java. I have worked as a graphic designer and as a web developer, and in my own personal freelance work I have often been both at the same time. Recently I have brought new skills into my briefcase, these include: Shipping and Logistics, Ecommerce data entry, Amazon Vendor Central compliance, EDI data exchange as well as Quickbooks online. I have become more than just a Web Developer, and much more than just a face in the crowd.</p>
 
