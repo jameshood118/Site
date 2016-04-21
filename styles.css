@@ -31,39 +31,16 @@ body {
 /* Boxes */
 
 .box {
-    margin: auto auto 1rem auto;
     color: #fff!important;
-    height: auto;
-    padding: 10px;
-    text-align: left;
     font-size: 1.5rem;
     background-color: #191F2A!important;
     border: 3px solid #2E3640!important;
-    border-radius: 10px 10px 10px 10px!important;
+    text-align:left;
+    text-indent:25px;
 }
 
 .box p {
     padding-bottom: 5px;
-}
-
-.blogbox {
-    text-indent: 25px;
-    padding: 20px;
-    float: none;
-    text-align: center;
-}
-
-.resumebox {
-    margin: 0.5in auto;
-    width: 50%;
-    padding: 20px;
-}
-
-.codebox {
-    margin: 0.5in auto;
-    width: 75%;
-    padding: 20px;
-    float: none;
 }
 
 .recbox {
