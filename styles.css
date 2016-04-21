@@ -1,0 +1,162 @@
+html {
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 10px;
+}
+
+body {
+    background-color: #050C11;
+}
+
+.jumbotron {
+    background-color: #050C11;
+    margin-bottom: 0;
+}
+
+#wrap {
+    margin: 0 auto 15px;
+    position: relative;
+    text-align: left;
+    width: 960px;
+    height: 100%;
+    color: #fff !important;
+    min-height: 900px;
+}
+
+.headtop {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+/* Boxes */
+
+.box {
+    margin: auto auto 1rem auto;
+    color: #fff!important;
+    height: auto;
+    padding: 10px;
+    text-align: left;
+    font-size: 1.5rem;
+    background-color: #191F2A!important;
+    border: 3px solid #2E3640!important;
+    border-radius: 10px 10px 10px 10px!important;
+}
+
+.box p {
+    padding-bottom: 5px;
+}
+
+.blogbox {
+    text-indent: 25px;
+    padding: 20px;
+    float: none;
+    text-align: center;
+}
+
+.resumebox {
+    margin: 0.5in auto;
+    width: 50%;
+    padding: 20px;
+}
+
+.codebox {
+    margin: 0.5in auto;
+    width: 75%;
+    padding: 20px;
+    float: none;
+}
+
+.recbox {
+    width: 95%;
+    background-color: #111;
+    margin: 0.5in auto;
+    color: #fff;
+    text-align: left;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+
+/* End Boxes */
+
+#lists {
+    text-indent: 25px;
+    text-align: left;
+}
+
+.WritingList li,
+.WritingList {
+    list-style-type: none;
+}
+
+h1 {
+    color: #fff;
+    font-size: large;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+h2 {
+    color: #00653a;
+    font-size: small;
+}
+
+.sitesbadge {
+    border-radius: 30px;
+    width: 200px;
+    height: 140px;
+}
+
+.sitesbadge:hover {
+    opacity: .7;
+}
+
+a.menuLink {
+    color: #76A6A1;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a.menuLink:hover {
+    color: #A65D56;
+    text-decoration: none;
+    font-style: italic;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border: 0;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+
+/* Hides from IE-mac \*/
+
+* html .clearfix {
+    height: 1%;
+}
+
+.clearfix {
+    display: block;
+}
+
+
+/* End hide from IE-mac */
