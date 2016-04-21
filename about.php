@@ -30,28 +30,21 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-8 box well well-lg">
+                    <div class="col-lg-12 box well well-lg">
                         <BR>
                         <p>My name is James Hood, I am a Full Stack Web Developer. I work with a wide array of tools. My languages include: PHP/MySQL, Javascript, Jquery, HTML(5), CSS(3), Actionscript 2.0/3.0, XML, ASP.net (C# and VB) and a smattering of C++, XSLT, Java. I have worked as a graphic designer and as a web developer, and in my own personal freelance work I have often been both at the same time. Recently I have brought new skills into my briefcase, these include: Shipping and Logistics, Ecommerce data entry, Amazon Vendor Central compliance, EDI data exchange as well as Quickbooks online. I have become more than just a Web Developer, and much more than just a face in the crowd.</p>
 
                         <p>These days its refreshing to find someone who can do multiple things, who can learn multiple skills, and run with that. The days of 1 skill per 1 employee is over. That just doesnt work these days.</p>
 
                         <p>I have had the pleasure of working with some very talented individuals, and I have made an impression:</p>
+                        <div class="recbox">James Hood has worked with me since December last year. He has been challenged with new approaches at Chico's FAS, and new platforms we have been testing. He manages to get a hang of a system relatively fast, and is a hard worker and definitely devoted to getting the job done.
+                            <br/> - Claudia Klees (Creative Developer, Contract)</div>
 
-                        <div class="recbox">I've never met a more devoted, flexible and versatile employee than James. He's dedicated 
-to the success of Marbles' Boxa brand across multiple web platforms. He understands the 
-intricate workings of our e-commerce platforms and isn't afraid to raise new ideas or 
-try new campaigns in an effort to generate sales.
+                        <div class="recbox">I've never met a more devoted, flexible and versatile employee than James. He's dedicated to the success of Marbles' Boxa brand across multiple web platforms. He understands the intricate workings of our e-commerce platforms and isn't afraid to raise new ideas or try new campaigns in an effort to generate sales.
+                            <br/> James is a team player and an asset to Marbles. The company is lucky to have him.
+                            <br/> - Elizabeth Carlton (Author, Copywriter, Editor)</div>
 
-James is a team player and an asset to Marbles. The company is lucky to have him.<br/>
- - Elizabeth Carlton (Author, Copywriter, Editor)</div>
-
-                        <div class="recbox">James is a full stack web developer with a “can-do” attitude. He has an extremely 
-versatile skill set and an amazing ability to multi-task. James can be inserted into 
-any difficult project or task and he will quickly assess the project’s need and then 
-develop an action plan. Finally and most importantly, James remains calm in high-stress 
-situations and finishes projects on time.
- - Tony Monda (Vice President of Strategic Marketing</div>
+                        <div class="recbox">James is a full stack web developer with a “can-do” attitude. He has an extremely versatile skill set and an amazing ability to multi-task. James can be inserted into any difficult project or task and he will quickly assess the project’s need and then develop an action plan. Finally and most importantly, James remains calm in high-stress situations and finishes projects on time. - Tony Monda (Vice President of Strategic Marketing)</div>
 
                         <p>On a personal side, my activities include (but are not limited to):
                             <div id="lists">
@@ -139,18 +132,20 @@ situations and finishes projects on time.
                                 </ul>
                             </div>
                     </div>
-                    <footer class="footer">
-                        <div class="container">
-                            <p class="text-muted">
-                                <?php include("includes/bottommenu.php"); ?>
-                                    <?php include("includes/footer.php"); ?>
-                            </p>
-                        </div>
-                    </footer>
-                    <BR>
-                    <BR>
-                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-                    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+                </div>
+            </div>
+            <footer class="footer">
+                <div class="container">
+                    <p class="text-muted">
+                        <?php include("includes/bottommenu.php"); ?>
+                            <?php include("includes/footer.php"); ?>
+                    </p>
+                </div>
+            </footer>
+            <BR>
+            <BR>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </body>
 
 </html>
