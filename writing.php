@@ -29,7 +29,7 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 box blogbox">
+                    <div class="col-lg-6 box well well-lg">
                         <?php 
 $link1='https://drive.google.com/file/d/0B2lCjTRAVBHYa1loamZHc29XQ1E/edit?usp=sharing';
 $link2='https://drive.google.com/file/d/0B2lCjTRAVBHYd2JKb2VBWkNYLWc/edit?usp=sharing';

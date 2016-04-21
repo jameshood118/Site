@@ -28,7 +28,7 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-10 box blogbox">
+                    <div class="col-lg-10 box well well-lg">
                         <h1>Sites I have worked on</h1>
 
                         <?php 

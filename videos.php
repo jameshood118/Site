@@ -29,7 +29,7 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 box blogbox">
+                    <div class="col-lg-6 box well well-lg">
                         <?php
 $dir = "videos";
 $handle=opendir($dir);
