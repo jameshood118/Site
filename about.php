@@ -12,6 +12,12 @@
                 <p>These days its refreshing to find someone who can do multiple things, who can learn multiple skills, and run with that. The days of 1 skill per 1 employee is over. That just doesnt work these days.</p>
 
                 <p>I have had the pleasure of working with some very talented individuals, and I have made an impression:</p>
+                <div class="recbox">
+                    James is a great cross-functional partner to have on any team. He has always done a great job in communication as well as execution for site updates. I value the fact that he lets me know if a problem may potentially arise well in advance. If there ever is a problem he always stayed in constant communication with his cross-functional partners till the resolution is executed.
+                    <br>
+                    During the time I worked with James, I truly valued his hard work and dedication.<br>
+                     - Morgan Bright-Ferrone (Assistant Manager, Digital Commerce Marketing Chico's)
+                    </div>
                 <div class="recbox">James Hood has worked with me since December last year. He has been challenged with new approaches at Chico's FAS, and new platforms we have been testing. He manages to get a hang of a system relatively fast, and is a hard worker and definitely devoted to getting the job done.
                     <br/> - Claudia Klees (Creative Developer, Contract)</div>
 
@@ -19,7 +25,7 @@
                     <br/> James is a team player and an asset to Marbles. The company is lucky to have him.
                     <br/> - Elizabeth Carlton (Author, Copywriter, Editor)</div>
 
-                <div class="recbox">James is a full stack web developer with a “can-do” attitude. He has an extremely versatile skill set and an amazing ability to multi-task. James can be inserted into any difficult project or task and he will quickly assess the project’s need and then develop an action plan. Finally and most importantly, James remains calm in high-stress situations and finishes projects on time. - Tony Monda (Vice President of Strategic Marketing)</div>
+                <div class="recbox">James is a full stack web developer with a “can-do” attitude. He has an extremely versatile skill set and an amazing ability to multi-task. James can be inserted into any difficult project or task and he will quickly assess the project’s need and then develop an action plan. Finally and most importantly, James remains calm in high-stress situations and finishes projects on time. <br>- Tony Monda (Vice President of Strategic Marketing)</div>
 
                 <p>On a personal side, my activities include (but are not limited to):
                     <div id="lists">
