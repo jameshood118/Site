@@ -10,9 +10,9 @@
     <META NAME="author" CONTENT="James Hood">
     <META NAME="ROBOTS" CONTENT="ALL">
     <title>The Portfolio of James Hood</title>
-    <link rel="stylesheet" href="bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <link href="sticky-footer-navbar.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/sticky-footer-navbar.css">
 
 </head>
 
