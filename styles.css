@@ -57,7 +57,12 @@ body {
 
 
 /* End Boxes */
-
+.gallery {
+    padding:50px;
+}
+.GalleryThumbs {
+    padding:10px;
+}
 #lists {
     text-indent: 25px;
     text-align: left;
