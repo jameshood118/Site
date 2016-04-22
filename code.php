@@ -71,7 +71,6 @@
                         </code>
                 <p>Simple, quick and efficient.</p>
             </div>
-
             <div class="col-lg-12 box well well-lg">
                 <h1>My Gallery Code (Old)</h1>
                 <p>I wanted a different way to display my gallery than just lightbox, I really like lightbox on the outset, except that I wanted a more concrete way of controlling what went on the page, plus with the Jquery menu I am using I was getting some very odd errors with using Jquery lightbox.</p>
@@ -95,7 +94,6 @@
 
 
             </div>
-
             <div class="col-lg-12 box well well-lg">
                 <h1>Seasonally Changing code in ASP</h1>
                 <p>After my job interview with Global Outfitters, the interviewer seemed extremely interested in a bit of PHP code I had written for Ayers Farmers Markets site (and re-used on the Tim Watson site). I went home and read up on ASP, ASP.net and various ways to teach myself more about it. I installed WebMatrix from Microsoft and started learning. As of 9/20/11 I have come up with a quick dirty version of the seasonally changing code using ASP</p>
@@ -116,7 +114,6 @@
                         </code>
 
             </div>
-
             <div class="col-lg-12 box well well-lg">
                 <h1>PHP Variables in CSS</h1>
                 <BR>
@@ -165,7 +162,6 @@
 
                         </code>
             </div>
-
             <div class="col-lg-12 box well well-lg">
                 <h1>Seasonally Changing Background Image</h1>
                 <a href="http://ayersfarmersmarket.com/" class="menuLink">Example 1 </a>seasonally changing bg image
@@ -219,7 +215,6 @@
                     <code>$new_color=str_shuffle($color);</code>
                 </p>
             </div>
-
             <div class="col-lg-12 box well well-lg">
                 <h1>MD5 Hash</h1>
                 <BR />
@@ -253,7 +248,6 @@
 
 
             </div>
-
             <div class="col-lg-12 box well well-lg">
                 <h1>ISSET</h1>
                 <BR />
@@ -276,7 +270,6 @@
                             <br>
                         </code>
             </div>
-
             <div class="col-lg-12 box well well-lg">
                 <h1>Switch Conditions</h1>
                 <BR />
@@ -287,16 +280,16 @@
                             <br> case 'seasons':
                             <br> switch ($seasons){
                             <br> case 'winter':
-                            <br> $destination_file="images/".$seasons."/".$seasons."".$wintercount.".jpg";
+                            <br> $destination_file="images/".$seasons."/<br>".$seasons."".$wintercount.".jpg";
                             <br> break;
                             <br> case 'spring':
-                            <br> $destination_file="images/".$seasons."/".$seasons."".$springcount.".jpg";
+                            <br> $destination_file="images/".$seasons."/<br>".$seasons."".$springcount.".jpg";
                             <br> break;
                             <br> case 'summer':
-                            <br> $destination_file="images/".$seasons."/".$seasons."".$summercount.".jpg";
+                            <br> $destination_file="images/".$seasons."/<br>".$seasons."".$summercount.".jpg";
                             <br> break;
                             <br> case 'fall':
-                            <br> $destination_file="images/".$seasons."/".$seasons."".$fallcount.".jpg";
+                            <br> $destination_file="images/".$seasons."/<br>".$seasons."".$fallcount.".jpg";
                             <br> break;
                             <br> }
                             <br> break;
