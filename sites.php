@@ -74,7 +74,7 @@ $description = $row[ "Description" ]."";
                 var description = button.data('description')
                 var modal = $(this)
                 modal.find('.modal-title').text(name)
-                modal.find('.modal-body').html('<div><img src="images/sites/' + image + '" class="img-responsive"></div><div><strong>Name:</strong> ' + name + ' <BR><strong>Address: </strong><a class="menuLink" href="' + address + '" target="_blank">' + address + '</a><BR><strong>Role: </strong>' + devrole + '<BR><strong>Company:</strong>' + company + '<BR><strong>Description: </strong>' + description + '</div >')
+                modal.find('.modal-body').html('<div><img src="images/sites/' + image + '" class="img-responsive"></div><div><strong>Name:</strong> ' + name + ' <BR><strong>Address: </strong><a class="menuLink" href="' + address + '" target="_blank">' + address + '</a><BR><strong>Role: </strong>' + devrole + '<BR><strong>Company: </strong>' + company + '<BR><strong>Description: </strong>' + description + '</div >')
             })
         </script>
 
