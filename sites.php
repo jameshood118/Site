@@ -38,7 +38,7 @@ $description = $row[ "Description" ]."";
     <img class="sitesbadge" src="/images/sites/<?php echo $image?>"/></a>
                     <?php 
     $number=$number+1; 
-    if ($number>3)
+    if ($number>4)
     { 
         print ('<BR>'); 
         $number=0; 
