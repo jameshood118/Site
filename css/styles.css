@@ -28,6 +28,7 @@ body {
     padding-top: 10px;
 }
 
+
 /* Boxes */
 
 .box {
@@ -35,8 +36,12 @@ body {
     font-size: 1.5rem;
     background-color: #191F2A!important;
     border: 3px solid #2E3640!important;
-    text-align:left;
-    text-indent:25px;
+    text-align: left;
+    text-indent: 25px;
+}
+
+.boxcenter {
+    text-align: center;
 }
 
 .box p {
@@ -57,12 +62,15 @@ body {
 
 
 /* End Boxes */
+
 .gallery {
-    padding:50px;
+    padding: 50px;
 }
+
 .GalleryThumbs {
-    padding:10px;
+    padding: 10px;
 }
+
 #lists {
     text-indent: 25px;
     text-align: left;
@@ -82,13 +90,22 @@ h1 {
 
 h2 {
     color: #00653a;
-    font-size: small;
+    font-variant: small-caps;
+}
+
+.siteslink,
+.siteslink:hover,
+.siteslink:active,
+.siteslink:focus{
+    border: 0;
+    outline:none;
 }
 
 .sitesbadge {
     border-radius: 30px;
     width: 200px;
     height: 140px;
+    margin: 15px;
 }
 
 .sitesbadge:hover {

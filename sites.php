@@ -3,7 +3,7 @@
 <?php include("includes/header.php"); ?>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 box well well-lg">
+            <div class="col-lg-12 box well well-lg boxcenter">
                 <h1>Sites I have worked on</h1>
 
                 <?php 
@@ -34,11 +34,11 @@ $category = $row[ "Category" ]."";
 $description = $row[ "Description" ]."";
 ?>
 
-                    <a href="#" id="<?php echo $Idnum?>" data-name="<?php echo $name?>" data-address="<?php echo $address?>" data-devrole="<?php echo $role?>" data-company="<?php echo $company?>" data-image="<?php echo $image?>" data-category="<?php echo $category?>" data-description="<?php echo description?>" data-toggle="modal" data-target="#myModal">
+                    <a href="#" class="siteslink" id="<?php echo $Idnum?>" data-name="<?php echo $name?>" data-address="<?php echo $address?>" data-devrole="<?php echo $role?>" data-company="<?php echo $company?>" data-image="<?php echo $image?>" data-category="<?php echo $category?>" data-description="<?php echo $description?>" data-toggle="modal" data-target="#myModal">
     <img class="sitesbadge" src="/images/sites/<?php echo $image?>"/></a>
                     <?php 
     $number=$number+1; 
-    if ($number>4)
+    if ($number>3)
     { 
         print ('<BR>'); 
         $number=0; 
@@ -74,7 +74,7 @@ $description = $row[ "Description" ]."";
                 var description = button.data('description')
                 var modal = $(this)
                 modal.find('.modal-title').text(name)
-                modal.find('.modal-body').html('<div><img src="images/sites/' + image + '" style="max-height:500px; max-width:500px;"></div><div><strong>Name:</strong> ' + name + ' <BR><strong>Address: </strong><a class="menuLink" href="' + address + '" target="_blank">' + address + '</a><BR><strong>Role: </strong>' + devrole + '<BR><strong>Company:</strong>' + company + '<BR><strong>Description: </strong>' + description + '</div >')
+                modal.find('.modal-body').html('<div><img src="images/sites/' + image + '" class="img-responsive"></div><div><strong>Name:</strong> ' + name + ' <BR><strong>Address: </strong><a class="menuLink" href="' + address + '" target="_blank">' + address + '</a><BR><strong>Role: </strong>' + devrole + '<BR><strong>Company:</strong>' + company + '<BR><strong>Description: </strong>' + description + '</div >')
             })
         </script>
 
