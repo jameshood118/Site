@@ -34,7 +34,7 @@ $category = $row[ "Category" ]."";
 $description = $row[ "Description" ]."";
 ?>
 
-                    <a href="#" class="siteslink" id="<?php echo $Idnum?>" data-name="<?php echo $name?>" data-address="<?php echo $address?>" data-devrole="<?php echo $role?>" data-company="<?php echo $company?>" data-image="<?php echo $image?>" data-category="<?php echo $category?>" data-description="<?php echo $description?>" data-toggle="modal" data-target="#myModal">
+   <a href="#" class="gallerylink" data-name="<?php echo $name?>" data-address="<?php echo $address?>" data-devrole="<?php echo $role?>" data-company="<?php echo $company?>" data-image="<?php echo $image?>" data-category="<?php echo $category?>" data-description="<?php echo $description?>" data-toggle="modal" data-target="#myModal">
     <img class="sitesbadge" src="/images/sites/<?php echo $image?>"/></a>
                     <?php 
     $number=$number+1; 

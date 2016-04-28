@@ -93,10 +93,10 @@ h2 {
     font-variant: small-caps;
 }
 
-.siteslink,
-.siteslink:hover,
-.siteslink:active,
-.siteslink:focus{
+.gallerylink,
+.gallerylink:hover,
+.gallerylink:active,
+.gallerylink:focus{
     border: 0;
     outline:none;
 }

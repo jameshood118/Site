@@ -32,7 +32,7 @@ if ($linkname =='') {
 
 ?>
 
-                    <a href="#Window" id="<?php echo $Idnum?>" data-gallery="<?php echo $gallery?>" data-passedname="<?php echo $passed_name?>" data-title="<?php echo $name?>" data-linkname="<?php echo $linkname?>" data-toggle="modal" data-target="#myModal">
+ <a href="#" class="gallerylink" data-gallery="<?php echo $gallery?>" data-passedname="<?php echo $passed_name?>" data-title="<?php echo $name?>" data-toggle="modal" data-target="#myModal">
 <img class="GalleryThumbs" src="images/<?php echo $gallery?>/<?php echo $name?>" width=200></a>
 
                     <?php

@@ -33,15 +33,14 @@ CREATE TABLE `Galleries` (
 --
 -- Dumping data for table `Galleries`
 --
-
-INSERT INTO `Galleries` VALUES(0, 'disgruntled kitty tshirt layout.jpg', 'vectors', '2008-09-17', '');
-INSERT INTO `Galleries` VALUES(1, 'Sunday_Park_Picnic_by_prophet118.jpg', 'vectors', '2009-08-14', '');
-INSERT INTO `Galleries` VALUES(2, 'Seasonal_Apple_Pies_by_prophet118.jpg', 'vectors', '2009-08-14', '');
-INSERT INTO `Galleries` VALUES(3, 'Gingham_Apples_by_prophet118.jpg', 'vectors', '2009-08-14', '');
-INSERT INTO `Galleries` VALUES(5, 'Vector_Clouds_by_prophet118.jpg', 'vectors', '2009-08-15', '');
-INSERT INTO `Galleries` VALUES(6, 'Hood_James_wk4_a1.jpg', 'vectors', '2009-12-05', '');
-INSERT INTO `Galleries` VALUES(7, 'splash screen 1.jpg', 'vectors', '2010-08-11', '');
-INSERT INTO `Galleries` VALUES(8, 'splash screen 2.jpg', 'vectors', '2010-08-12', '');
+INSERT INTO `Galleries` VALUES(0, '1.jpg', 'Doodles', '2014-08-15', '');
+INSERT INTO `Galleries` VALUES(1, '2.jpg', 'Doodles', '2014-08-15', '');
+INSERT INTO `Galleries` VALUES(3, '3.jpg', 'Doodles', '2014-08-15', '');
+INSERT INTO `Galleries` VALUES(4, '4.jpg', 'Doodles', '2014-08-15', '');
+INSERT INTO `Galleries` VALUES(5, '5.jpg', 'Doodles', '2014-08-15', '');
+INSERT INTO `Galleries` VALUES(6, '6.jpg', 'Doodles', '2014-08-15', '');
+INSERT INTO `Galleries` VALUES(7, '7.jpg', 'Doodles', '2014-08-15', '');
+INSERT INTO `Galleries` VALUES(8, '8.jpg', 'Doodles', '2014-08-15', '');
 INSERT INTO `Galleries` VALUES(9, '000336New Days2.jpg', 'terragen', '2009-08-15', '');
 INSERT INTO `Galleries` VALUES(10, '000335New Days1.jpg', 'terragen', '2009-08-15', '');
 INSERT INTO `Galleries` VALUES(11, '000334Counting The Days.jpg', 'terragen', '2009-08-15', '');
@@ -56,25 +55,6 @@ INSERT INTO `Galleries` VALUES(19, '001062strrange thingy.jpg', 'fractals', '201
 INSERT INTO `Galleries` VALUES(20, '001061Autumn Leaves.jpg', 'fractals', '2010-05-18', '');
 INSERT INTO `Galleries` VALUES(21, '001060Blue Warped.jpg', 'fractals', '2010-05-18', '');
 INSERT INTO `Galleries` VALUES(22, '000067Beast.jpg', 'fractals', '2010-05-08', '');
-INSERT INTO `Galleries` VALUES(23, 'Healthy Smiles Business Card.jpg', 'designs', '2010-01-14', '');
-INSERT INTO `Galleries` VALUES(24, 'Pro Electric Business Cards.jpg', 'designs', '2010-01-14', '');
-INSERT INTO `Galleries` VALUES(25, 'Hotrod Bus Card.jpg', 'designs', '2010-01-14', '');
-INSERT INTO `Galleries` VALUES(26, 'Mary Kay Postcards.jpg', 'designs', '2010-01-14', '');
-INSERT INTO `Galleries` VALUES(27, 'SW Funding Business Card.jpg', 'designs', '2010-01-14', '');
-INSERT INTO `Galleries` VALUES(28, 'thumbs/adoptakitty mockup.jpg', 'flashwork', '2010-01-07', 'adoptakitty mockup.swf');
-INSERT INTO `Galleries` VALUES(29, 'thumbs/blockmatch.jpg', 'flashwork', '2008-05-05', 'blockmatch.swf');
-INSERT INTO `Galleries` VALUES(30, 'thumbs/Hood_James_video.jpg', 'flashwork', '2010-03-23', 'Hood_James_video.swf');
-INSERT INTO `Galleries` VALUES(31, 'thumbs/Jennifer_Final.jpg', 'flashwork', '2010-05-07', 'Jennifer_Final.swf');
-INSERT INTO `Galleries` VALUES(32, 'thumbs/korea.jpg', 'flashwork', '2010-01-08', 'korea.swf');
-INSERT INTO `Galleries` VALUES(33, 'thumbs/See%20and%20Say.jpg', 'flashwork', '2008-10-08', 'See%20and%20Say.swf');
-INSERT INTO `Galleries` VALUES(34, 'thumbs/sophmore%20digi%20portfolio.jpg', 'flashwork', '2008-12-13', 'sophmore%20digi%20portfolio.swf');
-INSERT INTO `Galleries` VALUES(35, 'Cheeseburger.jpg', 'vectors', '2011-07-20', '');
-INSERT INTO `Galleries` VALUES(36, 'Discount Tabacco5.jpg', 'designs', '2011-07-21', '');
-INSERT INTO `Galleries` VALUES(37, 'Slick Finish2.jpg', 'designs', '2011-07-20', '');
-INSERT INTO `Galleries` VALUES(38, 'Southern Insurance.jpg', 'designs', '2011-07-20', '');
-INSERT INTO `Galleries` VALUES(39, 'Sparkle Prelim.jpg', 'designs', '2011-07-21', '');
-INSERT INTO `Galleries` VALUES(40, 'bug.jpg', 'vectors', '2011-07-21', '');
-INSERT INTO `Galleries` VALUES(41, 'bullet.jpg', 'vectors', '2011-07-21', '');
 INSERT INTO `Galleries` VALUES(43, 'pic1.jpg', 'terrapinguitars', '2011-07-21', '');
 INSERT INTO `Galleries` VALUES(44, 'pic2.jpg', 'terrapinguitars', '2011-07-21', '');
 INSERT INTO `Galleries` VALUES(45, 'pic3.jpg', 'terrapinguitars', '2011-07-21', '');
@@ -99,15 +79,6 @@ INSERT INTO `Galleries` VALUES(63, 'thumbs/RebelClause.jpg', 'AniFractals', '201
 INSERT INTO `Galleries` VALUES(64, 'thumbs/Scrying.jpg', 'AniFractals', '2011-07-21', 'Scrying.gif');
 INSERT INTO `Galleries` VALUES(65, 'thumbs/sinister.jpg', 'AniFractals', '2011-07-21', 'sinister.gif');
 INSERT INTO `Galleries` VALUES(66, 'thumbs/TrueBlue.jpg', 'AniFractals', '2011-07-21', 'TrueBlue.gif');
-INSERT INTO `Galleries` VALUES(67, 'tv set.jpg', 'vectors', '2011-07-22', '');
-INSERT INTO `Galleries` VALUES(68, 'world logo.jpg', 'vectors', '2011-07-22', '');
-INSERT INTO `Galleries` VALUES(69, '8X6 Blueprints.jpg', 'designs', '2011-07-26', '');
-INSERT INTO `Galleries` VALUES(70, 'Southern Insurance Blueprints.jpg', 'designs', '2011-07-27', '');
-INSERT INTO `Galleries` VALUES(71, 'light saber.jpg', 'vectors', '2011-09-02', '');
-INSERT INTO `Galleries` VALUES(72, 'guy and girl.jpg', 'vectors', '2011-09-06', '');
-INSERT INTO `Galleries` VALUES(73, 'IMAG0070.jpg', 'published', '2011-09-26', '');
-INSERT INTO `Galleries` VALUES(74, 'IMAG0071.jpg', 'published', '2011-09-26', '');
-INSERT INTO `Galleries` VALUES(75, 'IMAG0072.jpg', 'published', '2011-09-26', '');
 INSERT INTO `Galleries` VALUES(76, 'postit.png', 'designs', '2011-11-01', '');
 INSERT INTO `Galleries` VALUES(77, 'tape-menu.png', 'designs', '2011-11-01', '');
 INSERT INTO `Galleries` VALUES(78, 'tornpaper.png', 'designs', '2011-11-01', '');
@@ -135,28 +106,6 @@ CREATE TABLE `Users` (
 --
 
 INSERT INTO `Users` VALUES(0, 'prophet118', 'be1dd0a3ac22b7638dbe0bba16c3103e');
-
--- --------------------------------------------------------
-
---
--- Table structure for table `naughtygeek_orders`
---
-
-CREATE TABLE `naughtygeek_orders` (
-  `User_ID` int(11) NOT NULL,
-  `Username` text NOT NULL,
-  `Password` text NOT NULL,
-  `filelist` text NOT NULL,
-  `View` text NOT NULL,
-  PRIMARY KEY  (`User_ID`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8;
-
---
--- Dumping data for table `naughtygeek_orders`
---
-
-INSERT INTO `naughtygeek_orders` VALUES(0, 'mga6977@gmail.com', '21fd5f4d7a37b5c25d8113e1680921a8', '', 'No');
-INSERT INTO `naughtygeek_orders` VALUES(1, 'mga6977@gmail.com', '21fd5f4d7a37b5c25d8113e1680921a8', '', 'No');
 
 -- --------------------------------------------------------
 
